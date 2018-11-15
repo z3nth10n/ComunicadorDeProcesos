@@ -1,0 +1,7 @@
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\bin\Debug\ComunicadorDeProcesos.exe.config
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\bin\Debug\ComunicadorDeProcesos.exe
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\bin\Debug\ComunicadorDeProcesos.pdb
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\obj\Debug\ComunicadorDeProcesos.csprojAssemblyReference.cache
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\obj\Debug\ComunicadorDeProcesos.csproj.CoreCompileInputs.cache
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\obj\Debug\ComunicadorDeProcesos.exe
+C:\Users\arg10003\source\repos\ComunicadorDeProcesos\ComunicadorDeProcesos\obj\Debug\ComunicadorDeProcesos.pdb
